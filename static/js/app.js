@@ -46,5 +46,11 @@ function buildTable(data) {
     buildTable(filteredData);
   };
 
+  // Creating event for button click from html
+  d3.selectAll("#filter-btn").on("click", handleClick);
+
+  // Build table on loading
+  buildTable(tableData);
+
 
 
