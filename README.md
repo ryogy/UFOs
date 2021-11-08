@@ -4,7 +4,7 @@
 The purpose of this project was to build an interactive webpage where the webpage user could enter search paramaters that would then filter the data to that specific filter parameter.  The filters include the following: date, city, state, country, and shape.
 
 ## Results
-<img src="/Users/robertyokabaskas/Desktop/UFOs/UFO_search_fields.png" alt="UFO_search_fields" style="zoom:50%;" />
+<img src="UFOs/UFO_search_fields.png" alt="UFO_search_fields" style="zoom:50%;" />
 
 #### Using the Filter Search
 
